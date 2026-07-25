@@ -1,0 +1,16 @@
+id,company_name,recruiter_name,title,location,job_type,salary,minimum_cgpa,maximum_backlogs,graduation_year,deadline,status,allowed_branches
+1,TechCorp Solutions,Aarav Sharma,Software Development Engineer (SDE-1),Bangalore,Full Time,₹ 14.5 LPA,7.5,0,2026,2026-08-24,Active,Computer Science Engineering;Data Science;Information Technology
+2,TechCorp Solutions,Aarav Sharma,Frontend Engineer Intern,Bangalore,Internship,"₹ 45,000 / month",6.5,1,2026,2026-08-26,Active,Computer Science Engineering;Information Technology;Data Science;Electronics & Communication
+3,Nexus Systems,Ananya Verma,Quantitative Developer,Hyderabad,Full Time,₹ 22.0 LPA,8.5,0,2026,2026-08-28,Active,Computer Science Engineering;Data Science;Electrical Engineering
+4,DataDynamics Labs,Rohan Patel,Associate Data Scientist,Pune,Full Time,₹ 12.0 LPA,7.0,0,2026,2026-08-30,Active,Data Science;Computer Science Engineering;Information Technology
+5,CyberPulse Security,Priya Gupta,Cyber Security Analyst,Gurgaon,Full Time,₹ 10.0 LPA,6.5,1,2026,2026-09-01,Active,Computer Science Engineering;Information Technology;Electronics & Communication
+6,InnoSoft Digital,Vikram Singh,Full Stack Developer,Mumbai,Full Time,₹ 11.5 LPA,7.0,0,2026,2026-09-03,Active,Computer Science Engineering;Information Technology;Data Science
+7,CloudMatrix Systems,Neha Kumar,DevOps Engineer,Noida,Full Time,₹ 13.0 LPA,7.2,0,2026,2026-09-05,Active,Computer Science Engineering;Information Technology;Electrical Engineering
+8,FinEdge Analytics,Aditya Joshi,Fintech Software Analyst,Bangalore,Full Time,₹ 15.0 LPA,7.5,0,2026,2026-09-07,Active,Computer Science Engineering;Information Technology;Data Science
+9,Vortex Technologies,Sneha Mehta,Embedded Software Engineer,Chennai,Full Time,₹ 9.5 LPA,6.8,1,2026,2026-09-09,Active,Electronics & Communication;Electrical Engineering;Mechanical Engineering
+10,Zenith AI Labs,Kunal Rao,AI & Computer Vision Researcher,Bangalore,Full Time,₹ 20.0 LPA,8.0,0,2026,2026-09-11,Active,Computer Science Engineering;Data Science
+11,GlobalLogic Services,Pooja Nair,Graduate Engineer Trainee (GET),Hyderabad,Full Time,₹ 7.5 LPA,6.0,2,2026,2026-09-13,Active,Computer Science Engineering;Data Science;Information Technology;Electronics & Communication;Electrical Engineering;Mechanical Engineering;Civil Engineering
+12,TechCorp Solutions,Aarav Sharma,Backend Engineering Intern,Bangalore,Internship,"₹ 40,000 / month",7.0,0,2026,2026-09-15,Active,Computer Science Engineering;Information Technology;Data Science
+13,Nexus Systems,Ananya Verma,Systems Infrastructure Engineer,Hyderabad,Full Time,₹ 16.0 LPA,7.5,0,2026,2026-09-17,Active,Computer Science Engineering;Electrical Engineering;Electronics & Communication
+14,DataDynamics Labs,Rohan Patel,Data Engineering Analyst,Pune,Full Time,₹ 11.0 LPA,6.8,1,2026,2026-09-19,Closed,Computer Science Engineering;Data Science;Information Technology
+15,InnoSoft Digital,Vikram Singh,UI/UX Front-End Developer,Mumbai,Full Time,₹ 9.0 LPA,6.5,1,2026,2026-09-21,Closed,Computer Science Engineering;Information Technology;Electronics & Communication

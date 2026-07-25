@@ -1,0 +1,106 @@
+id,student_name,student_college_id,job_title,company_name,status,applied_at
+4,Aarav Sharma,CS2026001,Cyber Security Analyst,CyberPulse Security,Selected,2026-07-05
+5,Rohan Patel,CS2026002,Full Stack Developer,InnoSoft Digital,Selected,2026-07-08
+6,Rohan Patel,CS2026002,Associate Data Scientist,DataDynamics Labs,Selected,2026-07-23
+7,Rohan Patel,CS2026002,Graduate Engineer Trainee (GET),GlobalLogic Services,Under Review,2026-07-16
+8,Priya Gupta,CS2026003,Full Stack Developer,InnoSoft Digital,Under Review,2026-07-16
+9,Vikram Singh,CS2026004,Fintech Software Analyst,FinEdge Analytics,Applied,2026-07-21
+10,Vikram Singh,CS2026004,Embedded Software Engineer,Vortex Technologies,Under Review,2026-07-07
+11,Vikram Singh,CS2026004,DevOps Engineer,CloudMatrix Systems,Shortlisted,2026-07-06
+12,Neha Kumar,CS2026005,Quantitative Developer,Nexus Systems,Under Review,2026-07-13
+13,Neha Kumar,CS2026005,Software Development Engineer (SDE-1),TechCorp Solutions,Under Review,2026-07-18
+14,Aditya Joshi,CS2026006,Frontend Engineer Intern,TechCorp Solutions,Under Review,2026-07-05
+15,Aditya Joshi,CS2026006,Full Stack Developer,InnoSoft Digital,Interview,2026-07-19
+16,Aditya Joshi,CS2026006,Embedded Software Engineer,Vortex Technologies,Under Review,2026-07-24
+17,Sneha Mehta,CS2026007,Full Stack Developer,InnoSoft Digital,Under Review,2026-07-16
+18,Sneha Mehta,CS2026007,DevOps Engineer,CloudMatrix Systems,Applied,2026-07-12
+19,Sneha Mehta,CS2026007,Graduate Engineer Trainee (GET),GlobalLogic Services,Rejected,2026-07-17
+20,Kunal Rao,CS2026008,Full Stack Developer,InnoSoft Digital,Under Review,2026-07-17
+21,Kunal Rao,CS2026008,Cyber Security Analyst,CyberPulse Security,Under Review,2026-07-12
+22,Pooja Nair,CS2026009,Frontend Engineer Intern,TechCorp Solutions,Selected,2026-07-08
+23,Pooja Nair,CS2026009,Cyber Security Analyst,CyberPulse Security,Selected,2026-07-24
+24,Rahul Iyer,CS2026010,Quantitative Developer,Nexus Systems,Under Review,2026-07-23
+25,Rahul Iyer,CS2026010,AI & Computer Vision Researcher,Zenith AI Labs,Rejected,2026-07-11
+26,Shreya Chowdhury,CS2026011,Systems Infrastructure Engineer,Nexus Systems,Applied,2026-07-12
+27,Shreya Chowdhury,CS2026011,Full Stack Developer,InnoSoft Digital,Shortlisted,2026-07-23
+28,Shreya Chowdhury,CS2026011,DevOps Engineer,CloudMatrix Systems,Applied,2026-07-08
+29,Siddharth Das,CS2026012,DevOps Engineer,CloudMatrix Systems,Selected,2026-07-05
+30,Siddharth Das,CS2026012,Frontend Engineer Intern,TechCorp Solutions,Shortlisted,2026-07-15
+31,Kavya Reddy,CS2026013,DevOps Engineer,CloudMatrix Systems,Shortlisted,2026-07-07
+32,Kavya Reddy,CS2026013,Full Stack Developer,InnoSoft Digital,Under Review,2026-07-11
+33,Kavya Reddy,CS2026013,Systems Infrastructure Engineer,Nexus Systems,Under Review,2026-07-05
+34,Varun Deshmukh,CS2026014,Embedded Software Engineer,Vortex Technologies,Shortlisted,2026-07-15
+35,Varun Deshmukh,CS2026014,Software Development Engineer (SDE-1),TechCorp Solutions,Rejected,2026-07-06
+36,Riya Kulkarni,CS2026015,Fintech Software Analyst,FinEdge Analytics,Rejected,2026-07-18
+37,Riya Kulkarni,CS2026015,Systems Infrastructure Engineer,Nexus Systems,Rejected,2026-07-19
+38,Ishaan Agarwal,CS2026016,Embedded Software Engineer,Vortex Technologies,Shortlisted,2026-07-22
+39,Ishaan Agarwal,CS2026016,Graduate Engineer Trainee (GET),GlobalLogic Services,Shortlisted,2026-07-17
+40,Tanvi Bhat,CS2026017,Software Development Engineer (SDE-1),TechCorp Solutions,Shortlisted,2026-07-17
+41,Arjun Shah,CS2026018,Systems Infrastructure Engineer,Nexus Systems,Under Review,2026-07-06
+42,Arjun Shah,CS2026018,Frontend Engineer Intern,TechCorp Solutions,Under Review,2026-07-09
+43,Arjun Shah,CS2026018,Fintech Software Analyst,FinEdge Analytics,Interview,2026-07-20
+44,Meera Malhotra,CS2026019,Systems Infrastructure Engineer,Nexus Systems,Rejected,2026-07-17
+45,Dev Kapoor,CS2026020,Embedded Software Engineer,Vortex Technologies,Rejected,2026-07-17
+46,Dev Kapoor,CS2026020,Fintech Software Analyst,FinEdge Analytics,Under Review,2026-07-20
+47,Dev Kapoor,CS2026020,Software Development Engineer (SDE-1),TechCorp Solutions,Rejected,2026-07-08
+48,Divya Banerjee,CS2026021,AI & Computer Vision Researcher,Zenith AI Labs,Rejected,2026-07-07
+49,Divya Banerjee,CS2026021,Backend Engineering Intern,TechCorp Solutions,Under Review,2026-07-09
+50,Karan Sengupta,CS2026022,Systems Infrastructure Engineer,Nexus Systems,Shortlisted,2026-07-08
+51,Karan Sengupta,CS2026022,Associate Data Scientist,DataDynamics Labs,Under Review,2026-07-16
+52,Nisha Pillai,CS2026023,Backend Engineering Intern,TechCorp Solutions,Selected,2026-07-17
+53,Akash Sharma,CS2026024,Full Stack Developer,InnoSoft Digital,Applied,2026-07-20
+54,Akash Sharma,CS2026024,Embedded Software Engineer,Vortex Technologies,Under Review,2026-07-12
+55,Simran Verma,CS2026025,Associate Data Scientist,DataDynamics Labs,Under Review,2026-07-14
+56,Simran Verma,CS2026025,Frontend Engineer Intern,TechCorp Solutions,Under Review,2026-07-23
+57,Simran Verma,CS2026025,DevOps Engineer,CloudMatrix Systems,Under Review,2026-07-12
+58,Aman Patel,CS2026026,DevOps Engineer,CloudMatrix Systems,Selected,2026-07-15
+59,Aman Patel,CS2026026,Fintech Software Analyst,FinEdge Analytics,Under Review,2026-07-07
+60,Aman Patel,CS2026026,Software Development Engineer (SDE-1),TechCorp Solutions,Under Review,2026-07-17
+61,Swati Gupta,CS2026027,Fintech Software Analyst,FinEdge Analytics,Under Review,2026-07-14
+62,Swati Gupta,CS2026027,Software Development Engineer (SDE-1),TechCorp Solutions,Interview,2026-07-10
+63,Nikhil Singh,CS2026028,Embedded Software Engineer,Vortex Technologies,Applied,2026-07-22
+64,Nikhil Singh,CS2026028,Software Development Engineer (SDE-1),TechCorp Solutions,Under Review,2026-07-10
+65,Nikhil Singh,CS2026028,DevOps Engineer,CloudMatrix Systems,Applied,2026-07-16
+66,Deepika Kumar,CS2026029,Associate Data Scientist,DataDynamics Labs,Shortlisted,2026-07-14
+67,Deepika Kumar,CS2026029,Fintech Software Analyst,FinEdge Analytics,Shortlisted,2026-07-11
+68,Manish Joshi,CS2026030,Fintech Software Analyst,FinEdge Analytics,Applied,2026-07-07
+69,Bhavna Mehta,CS2026031,Associate Data Scientist,DataDynamics Labs,Applied,2026-07-23
+70,Bhavna Mehta,CS2026031,Graduate Engineer Trainee (GET),GlobalLogic Services,Under Review,2026-07-18
+71,Gaurav Rao,CS2026032,Quantitative Developer,Nexus Systems,Under Review,2026-07-21
+72,Gaurav Rao,CS2026032,Associate Data Scientist,DataDynamics Labs,Under Review,2026-07-16
+73,Gaurav Rao,CS2026032,Systems Infrastructure Engineer,Nexus Systems,Interview,2026-07-05
+74,Anita Nair,CS2026033,Cyber Security Analyst,CyberPulse Security,Shortlisted,2026-07-06
+75,Rishabh Iyer,CS2026034,AI & Computer Vision Researcher,Zenith AI Labs,Rejected,2026-07-12
+76,Rishabh Iyer,CS2026034,Graduate Engineer Trainee (GET),GlobalLogic Services,Applied,2026-07-06
+77,Preeti Chowdhury,CS2026035,Backend Engineering Intern,TechCorp Solutions,Under Review,2026-07-05
+78,Yash Das,CS2026036,Systems Infrastructure Engineer,Nexus Systems,Rejected,2026-07-13
+79,Yash Das,CS2026036,Software Development Engineer (SDE-1),TechCorp Solutions,Shortlisted,2026-07-24
+80,Yash Das,CS2026036,Full Stack Developer,InnoSoft Digital,Rejected,2026-07-21
+81,Ritu Reddy,CS2026037,Graduate Engineer Trainee (GET),GlobalLogic Services,Interview,2026-07-11
+82,Ritu Reddy,CS2026037,Fintech Software Analyst,FinEdge Analytics,Selected,2026-07-05
+83,Harsh Deshmukh,CS2026038,DevOps Engineer,CloudMatrix Systems,Selected,2026-07-14
+84,Harsh Deshmukh,CS2026038,Backend Engineering Intern,TechCorp Solutions,Shortlisted,2026-07-16
+85,Sakshi Kulkarni,CS2026039,Systems Infrastructure Engineer,Nexus Systems,Rejected,2026-07-06
+86,Abhishek Agarwal,CS2026040,Software Development Engineer (SDE-1),TechCorp Solutions,Under Review,2026-07-19
+87,Abhishek Agarwal,CS2026040,Fintech Software Analyst,FinEdge Analytics,Applied,2026-07-13
+88,Kirti Bhat,CS2026041,Cyber Security Analyst,CyberPulse Security,Shortlisted,2026-07-07
+89,Kirti Bhat,CS2026041,AI & Computer Vision Researcher,Zenith AI Labs,Under Review,2026-07-22
+90,Mayank Shah,CS2026042,DevOps Engineer,CloudMatrix Systems,Interview,2026-07-09
+91,Mayank Shah,CS2026042,Fintech Software Analyst,FinEdge Analytics,Under Review,2026-07-24
+92,Mayank Shah,CS2026042,Embedded Software Engineer,Vortex Technologies,Selected,2026-07-17
+93,Sonam Malhotra,CS2026043,Associate Data Scientist,DataDynamics Labs,Shortlisted,2026-07-09
+94,Sonam Malhotra,CS2026043,Cyber Security Analyst,CyberPulse Security,Rejected,2026-07-07
+95,Sonam Malhotra,CS2026043,Graduate Engineer Trainee (GET),GlobalLogic Services,Shortlisted,2026-07-10
+96,Tarun Kapoor,CS2026044,Cyber Security Analyst,CyberPulse Security,Shortlisted,2026-07-18
+97,Tarun Kapoor,CS2026044,Associate Data Scientist,DataDynamics Labs,Shortlisted,2026-07-07
+98,Payal Banerjee,CS2026045,Associate Data Scientist,DataDynamics Labs,Rejected,2026-07-09
+99,Vikas Sengupta,CS2026046,AI & Computer Vision Researcher,Zenith AI Labs,Shortlisted,2026-07-21
+100,Vikas Sengupta,CS2026046,Embedded Software Engineer,Vortex Technologies,Shortlisted,2026-07-17
+101,Vikas Sengupta,CS2026046,Systems Infrastructure Engineer,Nexus Systems,Under Review,2026-07-15
+102,Archana Pillai,CS2026047,Embedded Software Engineer,Vortex Technologies,Shortlisted,2026-07-23
+103,Archana Pillai,CS2026047,Quantitative Developer,Nexus Systems,Interview,2026-07-09
+104,Archana Pillai,CS2026047,Cyber Security Analyst,CyberPulse Security,Shortlisted,2026-07-06
+105,Aarav Sharma,CS2026048,Fintech Software Analyst,FinEdge Analytics,Selected,2026-07-19
+106,Aarav Sharma,CS2026048,Systems Infrastructure Engineer,Nexus Systems,Selected,2026-07-09
+107,Ananya Verma,CS2026049,DevOps Engineer,CloudMatrix Systems,Rejected,2026-07-22
+108,Rohan Patel,CS2026050,Quantitative Developer,Nexus Systems,Rejected,2026-07-15

@@ -1,0 +1,51 @@
+id,email,full_name,college_id,phone,branch,cgpa,graduation_year,active_backlogs,skills
+1,student@placeflow.demo,Aarav Sharma,CS2026001,+91 98123 45678,Computer Science Engineering,8.85,2026,0,Python;Java;React;SQL;Data Structures;Git
+2,student2@placeflow.demo,Rohan Patel,CS2026002,+91 9813356886,Information Technology,8.84,2026,0,Machine Learning;Data Structures;React;JavaScript;AWS
+3,student3@placeflow.demo,Priya Gupta,CS2026003,+91 9883197857,Electronics & Communication,7.72,2026,0,HTML/CSS;Java;Python
+4,student4@placeflow.demo,Vikram Singh,CS2026004,+91 9841227216,Electrical Engineering,7.7,2026,0,Python;SQL;AWS;Docker;TensorFlow
+5,student5@placeflow.demo,Neha Kumar,CS2026005,+91 9870291817,Mechanical Engineering,6.99,2026,0,Machine Learning;Python;PostgreSQL;TensorFlow;JavaScript
+6,student6@placeflow.demo,Aditya Joshi,CS2026006,+91 9855667651,Civil Engineering,8.97,2026,0,Node.js;SQL;PostgreSQL;C++
+7,student7@placeflow.demo,Sneha Mehta,CS2026007,+91 9860992979,Computer Science Engineering,7.71,2026,0,AWS;System Design;Git
+8,student8@placeflow.demo,Kunal Rao,CS2026008,+91 9815831819,Data Science,8.06,2026,0,TensorFlow;React;System Design;SQL;Java
+9,student9@placeflow.demo,Pooja Nair,CS2026009,+91 9894374605,Information Technology,8.66,2026,0,AWS;SQL;System Design;Java;Python
+10,student10@placeflow.demo,Rahul Iyer,CS2026010,+91 9820709497,Electronics & Communication,6.2,2026,2,React;PostgreSQL;Node.js
+11,student11@placeflow.demo,Shreya Chowdhury,CS2026011,+91 9858966946,Electrical Engineering,8.45,2026,0,AWS;System Design;React
+12,student12@placeflow.demo,Siddharth Das,CS2026012,+91 9896977837,Mechanical Engineering,8.91,2026,0,C++;Data Structures;JavaScript
+13,student13@placeflow.demo,Kavya Reddy,CS2026013,+91 9846231783,Civil Engineering,8.47,2026,0,Data Structures;Docker;HTML/CSS;PostgreSQL;TensorFlow
+14,student14@placeflow.demo,Varun Deshmukh,CS2026014,+91 9814308421,Computer Science Engineering,7.62,2026,0,PostgreSQL;Machine Learning;Java;React
+15,student15@placeflow.demo,Riya Kulkarni,CS2026015,+91 9838538251,Data Science,7.32,2026,1,Pandas;PostgreSQL;TensorFlow;Docker;Data Structures
+16,student16@placeflow.demo,Ishaan Agarwal,CS2026016,+91 9828740864,Information Technology,7.8,2026,0,Machine Learning;HTML/CSS;TensorFlow
+17,student17@placeflow.demo,Tanvi Bhat,CS2026017,+91 9858586340,Electronics & Communication,8.73,2026,0,Node.js;Pandas;Java
+18,student18@placeflow.demo,Arjun Shah,CS2026018,+91 9824716857,Electrical Engineering,9.09,2026,0,C++;HTML/CSS;Git
+19,student19@placeflow.demo,Meera Malhotra,CS2026019,+91 9861220073,Mechanical Engineering,7.63,2026,0,TensorFlow;Machine Learning;Pandas;HTML/CSS;Python
+20,student20@placeflow.demo,Dev Kapoor,CS2026020,+91 9882070937,Civil Engineering,6.21,2026,1,Docker;React;Node.js;SQL
+21,student21@placeflow.demo,Divya Banerjee,CS2026021,+91 9810435578,Computer Science Engineering,7.83,2026,0,Machine Learning;C++;System Design;Java;Docker
+22,student22@placeflow.demo,Karan Sengupta,CS2026022,+91 9895758349,Data Science,8.13,2026,0,SQL;Node.js;C++;PostgreSQL;JavaScript
+23,student23@placeflow.demo,Nisha Pillai,CS2026023,+91 9881182864,Information Technology,8.63,2026,0,Docker;Pandas;Python
+24,student24@placeflow.demo,Akash Sharma,CS2026024,+91 9858718453,Electronics & Communication,7.73,2026,0,Data Structures;Java;React;Git
+25,student25@placeflow.demo,Simran Verma,CS2026025,+91 9875228535,Electrical Engineering,7.35,2026,0,Node.js;System Design;Docker
+26,student26@placeflow.demo,Aman Patel,CS2026026,+91 9883793389,Mechanical Engineering,8.5,2026,0,Machine Learning;HTML/CSS;React
+27,student27@placeflow.demo,Swati Gupta,CS2026027,+91 9836998038,Civil Engineering,9.45,2026,0,Git;PostgreSQL;Docker;TensorFlow;C++
+28,student28@placeflow.demo,Nikhil Singh,CS2026028,+91 9879467853,Computer Science Engineering,8.42,2026,0,React;Data Structures;System Design;Java
+29,student29@placeflow.demo,Deepika Kumar,CS2026029,+91 9888961459,Data Science,8.21,2026,0,Data Structures;System Design;Python;Java;AWS
+30,student30@placeflow.demo,Manish Joshi,CS2026030,+91 9819046318,Information Technology,6.18,2026,1,Docker;JavaScript;Machine Learning
+31,student31@placeflow.demo,Bhavna Mehta,CS2026031,+91 9899788677,Electronics & Communication,8.0,2026,0,SQL;Node.js;AWS;Git
+32,student32@placeflow.demo,Gaurav Rao,CS2026032,+91 9842614537,Electrical Engineering,8.71,2026,0,HTML/CSS;SQL;Java;TensorFlow
+33,student33@placeflow.demo,Anita Nair,CS2026033,+91 9857553014,Mechanical Engineering,8.88,2026,0,HTML/CSS;TensorFlow;System Design;AWS
+34,student34@placeflow.demo,Rishabh Iyer,CS2026034,+91 9897705310,Civil Engineering,7.61,2026,0,React;Java;SQL;AWS;C++
+35,student35@placeflow.demo,Preeti Chowdhury,CS2026035,+91 9843374088,Computer Science Engineering,7.22,2026,0,SQL;TensorFlow;JavaScript
+36,student36@placeflow.demo,Yash Das,CS2026036,+91 9847385696,Data Science,8.39,2026,0,Data Structures;JavaScript;System Design;PostgreSQL
+37,student37@placeflow.demo,Ritu Reddy,CS2026037,+91 9883863413,Information Technology,9.31,2026,0,Java;Python;System Design
+38,student38@placeflow.demo,Harsh Deshmukh,CS2026038,+91 9841726318,Electronics & Communication,9.45,2026,0,HTML/CSS;Pandas;Data Structures
+39,student39@placeflow.demo,Sakshi Kulkarni,CS2026039,+91 9863826716,Electrical Engineering,7.95,2026,0,C++;PostgreSQL;Python
+40,student40@placeflow.demo,Abhishek Agarwal,CS2026040,+91 9871070189,Mechanical Engineering,6.39,2026,2,HTML/CSS;Pandas;JavaScript;React
+41,student41@placeflow.demo,Kirti Bhat,CS2026041,+91 9817849494,Civil Engineering,8.12,2026,0,Java;Docker;Python;TensorFlow;Git
+42,student42@placeflow.demo,Mayank Shah,CS2026042,+91 9881286543,Computer Science Engineering,8.5,2026,0,Java;JavaScript;HTML/CSS
+43,student43@placeflow.demo,Sonam Malhotra,CS2026043,+91 9889864260,Data Science,7.89,2026,0,Data Structures;PostgreSQL;Java
+44,student44@placeflow.demo,Tarun Kapoor,CS2026044,+91 9886460539,Information Technology,9.48,2026,0,Java;JavaScript;SQL
+45,student45@placeflow.demo,Payal Banerjee,CS2026045,+91 9844999379,Electronics & Communication,7.09,2026,1,Docker;Data Structures;Node.js
+46,student46@placeflow.demo,Vikas Sengupta,CS2026046,+91 9896637649,Electrical Engineering,8.33,2026,0,TensorFlow;Docker;System Design;PostgreSQL
+47,student47@placeflow.demo,Archana Pillai,CS2026047,+91 9811250299,Mechanical Engineering,9.47,2026,0,React;JavaScript;Machine Learning;System Design
+48,student48@placeflow.demo,Aarav Sharma,CS2026048,+91 9827778019,Civil Engineering,8.56,2026,0,JavaScript;Data Structures;C++;Node.js
+49,student49@placeflow.demo,Ananya Verma,CS2026049,+91 9882909480,Computer Science Engineering,7.83,2026,0,Git;Python;Docker;HTML/CSS;Machine Learning
+50,student50@placeflow.demo,Rohan Patel,CS2026050,+91 9828024248,Data Science,5.98,2026,1,React;System Design;AWS;Machine Learning
